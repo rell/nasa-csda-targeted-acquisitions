@@ -1,0 +1,14 @@
+Extraction Pipeline/output
+Extraction Pipeline/archived extract data
+Extraction Pipeline/orders
+Extraction Pipeline/logs
+NLP Training/output
+NLP Training/Proto
+.ipynb_checkpoints
+.env
+.idea
+.git
+*.pyc
+venv
+venv2
+*.json

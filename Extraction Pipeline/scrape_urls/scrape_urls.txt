@@ -1,0 +1,2 @@
+https://earthobservatory.nasa.gov/features?page={}
+https://www.usgs.gov/products/publications/articles?page={}
